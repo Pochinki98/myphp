@@ -122,7 +122,7 @@ if(form.q.value==""){
 
 <form name="from"action="index.php" method="post">
 			<div id="content"><div id="create_form"><label>请输入您要查询的关键词：<input class="inurl" size="26" id="unurl" name="q" value="<?php echo !empty($q)?$q:''; ?>"/></label>
-	<p class="ali"><label for="alias">关键词搜索:</label><span>姓名,学号（支持模糊搜索）</span></p><p class="but"><input onclick="check(form)" type="submit" value="Search" class="submit" /></p>
+	<p class="ali"><label for="alias">关键词搜索:</label><span>姓名,学号（支持模糊搜索）</span></p><p class="but"><input onclick="check(form)" type="submit" value="点此查询" class="submit" /></p>
 		</form></div>
 		<?php
 		if(isset($count)){
