@@ -109,7 +109,7 @@ a:active {
 <!--
     function check(form){
 if(form.q.value==""){
-  alert("Not null！");
+  alert("搜索成功！你搜了个寂寞。");
   form.q.focus();
   return false;
  }
