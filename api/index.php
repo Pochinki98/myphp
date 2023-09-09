@@ -141,10 +141,10 @@ if(form.q.value==""){
 		}
 		?>
 		<div id="nav">
-<ul><li class="current"><a href="https://game.ygwiki.net">点此在线畅玩3A大作《信心之路》</a></li><li><a href="https://www.45office.com/" target="_blank">点此支持特朗普任总统</a></li></ul>
+<ul><li class="current"><a href="mailto:admin@ygwiki.eu.org">广告位招租，点击联系邮箱</a></li><li><a href="https://www.45office.com/" target="_blank">点此支持特朗普任总统</a></li></ul>
 </div>
 <div id="footer">
-<p>邕高2021级学号查询在线平台 by <a href="https://ygwiki.net" target="_blank">邕有维基<a></p><div style="display:none">
+<p>邕高2021级学号查询在线平台 by <a href="https://ygwiki.eu.org" target="_blank">邕有维基<a></p><div style="display:none">
 </div>
 </div>
 </body>
